@@ -4,6 +4,10 @@
 
 [微软官方视频：Python入门短视频课程](https://channel9.msdn.com/Series/Intro-to-Python-Development?WT.mc_id=python-c9-niner)
 
+学习过程有疑问，可以扫一扫关注，加群一起交流
+
+![开源优测](https://github.com/small99/AutoHub/blob/master/images/开源优测.jpg)
+
 ## Overview
 
 The series of videos on Channel 9 is designed to help get you up to speed on Python. If you're a beginning developer who's looking to add Python to your quiver of languages, or trying to get started on a data science or web project, these videos can help teach you the foundation necessary to walk through a quick start or other tutorial.
