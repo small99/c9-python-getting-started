@@ -6,7 +6,7 @@
 
 学习过程有疑问，可以扫一扫关注，加群一起交流
 
-![开源优测](https://github.com/small99/AutoHub/blob/master/images/开源优测.jpg)
+![开源优测](./开源优测.jpg)
 
 ## Overview
 
